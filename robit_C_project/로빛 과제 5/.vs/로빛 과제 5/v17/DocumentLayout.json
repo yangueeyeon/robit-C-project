@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yangu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit_C_project1\\robit_C_project\\\uB85C\uBE5B \uACFC\uC81C 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD22720B-5DF4-4496-960C-F22C13C8E33D}|\uB85C\uBE5B \uACFC\uC81C 5\\\uB85C\uBE5B \uACFC\uC81C 5.vcxproj|C:\\Users\\yangu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit_C_project1\\robit_C_project\\\uB85C\uBE5B \uACFC\uC81C 5\\\uB85C\uBE5B \uACFC\uC81C 5\\a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD22720B-5DF4-4496-960C-F22C13C8E33D}|\uB85C\uBE5B \uACFC\uC81C 5\\\uB85C\uBE5B \uACFC\uC81C 5.vcxproj|solutionrelative:\uB85C\uBE5B \uACFC\uC81C 5\\a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "a.c",
+              "DocumentMoniker": "C:\\Users\\yangu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit_C_project1\\robit_C_project\\\uB85C\uBE5B \uACFC\uC81C 5\\\uB85C\uBE5B \uACFC\uC81C 5\\a.c",
+              "RelativeDocumentMoniker": "\uB85C\uBE5B \uACFC\uC81C 5\\a.c",
+              "ToolTip": "C:\\Users\\yangu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit_C_project1\\robit_C_project\\\uB85C\uBE5B \uACFC\uC81C 5\\\uB85C\uBE5B \uACFC\uC81C 5\\a.c",
+              "RelativeToolTip": "\uB85C\uBE5B \uACFC\uC81C 5\\a.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-01T05:48:04.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
